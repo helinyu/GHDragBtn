@@ -104,12 +104,11 @@
 		4170F99E2119847F0057B10F /* test_drag */ = {
 			isa = PBXGroup;
 			children = (
+				4170F9DA211AC0880057B10F /* GHDragBtn */,
 				4170F99F2119847F0057B10F /* AppDelegate.h */,
 				4170F9A02119847F0057B10F /* AppDelegate.m */,
 				4170F9A22119847F0057B10F /* ViewController.h */,
 				4170F9A32119847F0057B10F /* ViewController.m */,
-				4170F9D7211986E60057B10F /* GHDragBtn.h */,
-				4170F9D8211986E60057B10F /* GHDragBtn.m */,
 				4170F9A52119847F0057B10F /* Main.storyboard */,
 				4170F9A8211984820057B10F /* Assets.xcassets */,
 				4170F9AA211984820057B10F /* LaunchScreen.storyboard */,
@@ -135,6 +134,15 @@
 				4170F9C5211984830057B10F /* Info.plist */,
 			);
 			path = test_dragUITests;
+			sourceTree = "<group>";
+		};
+		4170F9DA211AC0880057B10F /* GHDragBtn */ = {
+			isa = PBXGroup;
+			children = (
+				4170F9D7211986E60057B10F /* GHDragBtn.h */,
+				4170F9D8211986E60057B10F /* GHDragBtn.m */,
+			);
+			path = GHDragBtn;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
