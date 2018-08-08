@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'GHDragBtn'
-s.version      = '0.0.3'
+s.version      = '0.0.2'
 s.summary      = '实现悬浮按钮拖拽'
 s.homepage     = 'https://github.com/helinyu/GHDragBtn'
 s.license      = 'MIT'
