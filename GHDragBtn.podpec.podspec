@@ -7,7 +7,7 @@ s.license      = 'MIT'
 s.authors      = { "felix" => "2319979647@qq.com" }
 s.platform     = :ios, '7.0'
 s.source       = {:git => 'https://github.com/helinyu/GHDragBtn', :tag => s.version}
-s.source_files = 'HLYBadge/AKABadge/**/*'
+s.source_files = 'test_drag/test_drag/GHDragBtn/*'
 s.requires_arc = true
 s.description  = <<-DESC
                a button for using over the keywindow
